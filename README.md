@@ -1,2 +1,2 @@
 # Introducemyself
-this is my website created by HTML and CSS.
+this is my webpage created by HTML and CSS.
